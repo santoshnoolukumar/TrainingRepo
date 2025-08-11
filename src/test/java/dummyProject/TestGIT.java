@@ -1,5 +1,7 @@
 package dummyProject;
 
 public class TestGIT {
-System.out.println("Updated in Remote");
+	public static void main(String s[]) {
+		System.out.println("Updated in Remote");
+	}
 }
